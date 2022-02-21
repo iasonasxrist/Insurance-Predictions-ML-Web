@@ -1,1 +1,6 @@
-*.ipynb
+#*.ipynb
+# cat .slugignore
+
+/test
+/spec
+/docs
